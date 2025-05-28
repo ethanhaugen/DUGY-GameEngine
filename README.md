@@ -1,2 +1,2 @@
-# DUGY-2DGameEngine
-Simple 2D game engine 
+# DUGY-GameEngine
+Simple game engine project
